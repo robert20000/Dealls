@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Squad Game_ant-drawer-mask</name>
+   <tag></tag>
+   <elementGuidId>6ba379ab-95e4-4106-adae-43700fef4fd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-drawer-mask</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b38e145f-73dc-48b2-ad6c-b3f907f9cfda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-drawer-mask</value>
+      <webElementGuid>6bf7fa83-aedf-4845-bb50-67915fb8e663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-drawer ant-drawer-top GlobalSearch_drawer__S7sJ0 GlobalSearch_global_search_light__zV_r0 ant-drawer-open&quot;]/div[@class=&quot;ant-drawer-mask&quot;]</value>
+      <webElementGuid>22c6dbe2-cc87-4437-ad8b-067d2392ecbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>9d8f6da3-4a56-418b-bab8-63629783ff07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>275770fa-8955-4805-b986-5111d65320f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>fa88ef1d-7021-43e3-ad8f-8618e7d75fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15.2459 5.929C15.5704 5.60454 15.5704 5.07847 15.2459 4.754V4.754C14.9214 4.42954 14.3954 4.42954 14.0709 4.754L10.7072 8.11773C10.3167 8.50825 9.6835 8.50825 9.29297 8.11773L5.92925 4.754C5.60478 4.42954 5.07872 4.42954 4.75425 4.754V4.754C4.42978 5.07847 4.42978 5.60454 4.75425 5.929L8.11797 9.29273C8.5085 9.68325 8.5085 10.3164 8.11797 10.7069L4.75425 14.0707C4.42978 14.3951 4.42978 14.9212 4.75425 15.2457V15.2457C5.07872 15.5701 5.60478 15.5701 5.92925 15.2457L9.29297 11.8819C9.6835 11.4914 10.3167 11.4914 10.7072 11.8819L14.0709 15.2457C14.3954 15.5701 14.9214 15.5701 15.2459 15.2457V15.2457C15.5704 14.9212 15.5704 14.3951 15.2459 14.0707L11.8822 10.7069C11.4917 10.3164 11.4917 9.68325 11.8822 9.29273L15.2459 5.929Z</value>
+      <webElementGuid>16614557-41fc-4cf0-b24b-257921f3548a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#BABABA</value>
+      <webElementGuid>034bb2cf-59af-4bee-885c-46e0678ffb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-drawer ant-drawer-top GlobalSearch_drawer__S7sJ0 GlobalSearch_global_search_light__zV_r0 ant-drawer-open&quot;]/div[@class=&quot;ant-drawer-content-wrapper&quot;]/div[@class=&quot;ant-drawer-content&quot;]/div[@class=&quot;ant-drawer-wrapper-body&quot;]/div[@class=&quot;ant-drawer-body&quot;]/label[@class=&quot;mb-[14px] flex w-full justify-between&quot;]/button[1]/svg[1]/g[1]/path[1]</value>
+      <webElementGuid>cea3eca5-9e04-4697-a68e-fdf1ee2d95b2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
